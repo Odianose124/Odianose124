@@ -108,6 +108,7 @@ A production-oriented trading platform project focused on financial market analy
 - Trade execution workflows
 
 **Technologies:** React, Python, FastAPI, APIs, MT4/MT5 integration
+
 🔗 [View Repository](https://github.com/Odianose124/ai-trading-platform)
 
 ## 🎯 What I Do
